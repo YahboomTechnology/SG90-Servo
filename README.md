@@ -1,5 +1,4 @@
 # SG90-Servo
-# Raspberry Pi 4WD Car
 ![](https://github.com/YahboomTechnology/SG90-Servo/blob/main/SG90_SERVO.jpg)
 # Introduction
 These servo possesses three pins: VCC, GND, IO. Light weight, small size.
